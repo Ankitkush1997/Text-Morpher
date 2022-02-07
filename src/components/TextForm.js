@@ -84,7 +84,7 @@ export default function TextForm(props) {
         </div>
       </div>
       <div
-        className="container my-3 mt-5"
+        className="container my-3"
         style={{color: props.mode === "dark" ? "white" : "#343a40" }}
       >
         <h2 style= {{color:"#1a949a"}}>Your Text Summary</h2>
